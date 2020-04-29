@@ -6,7 +6,7 @@ what I studied :sunglasses:, what I am going to study :scream:
    - ~~refrection~~
    - ~~generic~~
    - ~~lambda~~
-   - stream
+   - ~~stream~~
    - serialization
    - ~~future/callable~~
    - ~~multithread synchronization~~
@@ -16,7 +16,7 @@ what I studied :sunglasses:, what I am going to study :scream:
    - annotation customizing
    - jdk proxy/cglib
    - batch
-   - ~~quartz
+   - ~~quartz~~
 + spring boot
    - ~~env setting~~
    - ~~coding~~
