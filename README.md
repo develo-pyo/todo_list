@@ -38,7 +38,8 @@ what I studied :sunglasses:, what I am going to study :scream:
 + javascript
    - ~~prototype~~
    - closure
-   - promise
+   - ~callback~
+   - ~promise~
 + node.js
    - ~~concept~~
    - grammar
