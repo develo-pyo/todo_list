@@ -10,12 +10,12 @@ what I studied :sunglasses:, what I am going to study :scream:
    - serialization
    - ~~future/callable~~
    - ~~multithread synchronization~~
-+ design pattern
++ design pattern (java)
    - ~~factory design pattern~~
 + spring 
    - annotation customizing
    - jdk proxy/cglib
-   - batch
+   - ~bat~ch
    - ~~quartz~~
 + spring boot
    - ~~env setting~~
@@ -33,8 +33,9 @@ what I studied :sunglasses:, what I am going to study :scream:
 + debug mode
    - ~~usage~~
 + tdd
+   - ~grammar~
    - mocking concept
-   - practical case study
+   - practical case study(테스트주도개발 도서)
 + javascript
    - ~~prototype~~
    - closure
@@ -49,10 +50,9 @@ what I studied :sunglasses:, what I am going to study :scream:
 + git 
    - ~~concept~~
    - ~~basic usage~~
-   - in-depth usage
+   - in-depth usage(eg. merge branch..)
 + aws
 + docker
 + jenkins
 + kafka
 + webflux
-
