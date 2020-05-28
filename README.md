@@ -51,6 +51,10 @@ what I studied :sunglasses:, what I am going to study :scream:
    - ~~concept~~
    - ~~basic usage~~
    - in-depth usage(eg. merge branch..)
++ python
+   - basic grammar
+   - machine learning
+   - deep learning
 + kotlin
 + aws
 + docker
