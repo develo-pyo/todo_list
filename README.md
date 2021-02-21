@@ -15,32 +15,38 @@ what I studied :sunglasses:, what I am going to study :scream:
 + spring 
    - annotation customizing
    - jdk proxy/cglib
-   - ~bat~ch
+   - security
+   - ~~batch~~
    - ~~quartz~~
 + spring boot
    - ~~env setting~~
    - ~~coding~~
    - toy project
    - gradle usage
++  auth
+   - ~~jwt 개념~~
+   - ~~jwt 구현~~
+   - ~~oauth 2.0 개념~~
+   - oauth 2.0 구현
 + JPA
    - ~~grammar~~
    - toy project
 + DB 
    - ~~isolation level~~
    - ~~SQL index~~
-   - SQL tuning
+   - ORACLE SQL tuning
    - nomalization
 + debug mode
    - ~~usage~~
 + tdd
-   - ~grammar~
+   - ~~grammar~~
    - mocking concept
    - practical case study(테스트주도개발 도서)
 + javascript
    - ~~prototype~~
    - closure
-   - ~callback~
-   - ~promise~
+   - ~~callback~~
+   - ~~promise~~
 + node.js
    - ~~concept~~
    - grammar
@@ -56,8 +62,13 @@ what I studied :sunglasses:, what I am going to study :scream:
    - machine learning
    - deep learning
 + kotlin
-+ aws
-+ docker
++ aws/gcp
+   - ~~docker 개념~~
+   - ~~kubernetes 개념~~
+   - ~~docker / kubernetes 실습 (gcp)~~
+   - 자격증 취득
 + jenkins
+   - ~~ant~~
+   - ~~maven~~
 + kafka
 + webflux
